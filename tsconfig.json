@@ -129,7 +129,7 @@
     "strict": true,
     "sourceMap": true,
     "outDir": "./dist",
-    "rootDir": "./",
+    // "rootDir": "./",
     "resolveJsonModule": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
