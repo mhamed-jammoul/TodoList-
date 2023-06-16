@@ -1,0 +1,10 @@
+{
+    "delay": "0",
+    "execMap": {
+        "ts": "node -r ts-node/register/transpile-only "
+    },
+    "events": {
+        "start": "echo \"Starting.\" "
+    },
+    "ignore": ["./dist/**/*", "./node_modules/**/*"]
+}
